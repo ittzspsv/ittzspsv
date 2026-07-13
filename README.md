@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/fonts/BannerDark.png" width="40%">
-    <source media="(prefers-color-scheme: light)" srcset="images/fonts/BannerLight.png" width="40%">
-    <img alt="Banner" src="images/fonts/BannerLight.png" width="40%">
+    <source media="(prefers-color-scheme: dark)" srcset="images/fonts/BannerLight.png" width="40%">
+    <source media="(prefers-color-scheme: light)" srcset="images/fonts/BannerDark.png" width="40%">
+    <img alt="Banner" src="images/fonts/BannerDark.png" width="40%">
   </picture>
 </div>
 
@@ -10,9 +10,9 @@
   <img src="images/Shiuchi__.png" width="300" />
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/fonts/AboutLight.png" width="77%">
-    <source media="(prefers-color-scheme: light)" srcset="images/fonts/AboutDark.png" width="77%">
-    <img alt="Banner" src="images/fonts/AboutDark.png" width="77%">
+    <source media="(prefers-color-scheme: dark)" srcset="images/fonts/AboutLight.png" width="87%">
+    <source media="(prefers-color-scheme: light)" srcset="images/fonts/AboutDark.png" width="87%">
+    <img alt="Banner" src="images/fonts/AboutDark.png" width="87%">
 </picture>
 
 </div>
