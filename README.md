@@ -44,16 +44,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://ghstats.dev/api/card?username=ittzspsv&bg=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&hide=streak,grade,followers,stars,contributions,repos,issues&hide_title=true"
+    srcset="https://ghstats.dev/api/card?username=ittzspsv&theme=light&hide_border=true&hide_title=true&border_radius=0&hide=streak,grade,followers,stars,contributions,repos,issues&hide_title=true"
   />
-
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://ghstats.dev/api/card?username=ittzspsv&bg=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&hide=streak,grade,followers,stars,contributions,repos,issues&hide_title=true"
+    srcset="https://ghstats.dev/api/card?username=ittzspsv&theme=light&hide_border=true&hide_title=true&border_radius=0&hide=streak,grade,followers,stars,contributions,repos,issues&hide_title=true"
   />
-
-<img
-    src="https://ghstats.dev/api/card?username=ittzspsv&bg=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&hide=streak,grade,followers,stars,contributions,repos,issues&hide_title=true"
+  <img
+    src="https://ghstats.dev/api/card?username=ittzspsv&theme=light&hide_border=true&hide_title=true&border_radius=0&hide=streak,grade,followers,stars,contributions,repos,issues&hide_title=true"
     width="55%"
     alt="GitHub Stats"
   />
