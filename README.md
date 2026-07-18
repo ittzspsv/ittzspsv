@@ -23,6 +23,7 @@
     <img alt="AboutMe" src="images/fonts/AboutMeLight.png" width="35%">
 </picture>
 <div>
+<br><br>
 <img src="images/_Shiuchi_.png" width="300" align="left" />
 
 <picture>
