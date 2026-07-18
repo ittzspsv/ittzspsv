@@ -41,21 +41,7 @@
 </picture>
 <br><br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://ghstats.dev/api/card?username=ittzspsv&theme=dark&text=ffd60a&icon_color=ffd60a&hide_border=true&hide_title=true&border_radius=0&hide=streak,grade,followers,stars,contributions,repos,issues"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://ghstats.dev/api/card?username=ittzspsv&theme=light&text=dc2626&icon_color=dc2626&hide_border=true&hide_title=true&border_radius=0&hide=streak,grade,followers,stars,contributions,repos,issues"
-  />
-  <img
-    src="https://ghstats.dev/api/card?username=ittzspsv&theme=light&text=dc2626&icon_color=dc2626&hide_border=true&hide_title=true&border_radius=0&hide=streak,grade,followers,stars,contributions,repos,issues"
-    width="55%"
-    alt="GitHub Stats"
-  />
-</picture>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ittzspsv&theme=light&hide_title=true&size=compact&order=grade%2Chours%2Ccommits%2Cactive_day%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cstars%2Ccontributions%2Cissues%2Crepos%2Cfollowers%2Cprs)
 
 </div>
 
