@@ -44,11 +44,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://ghstats.dev/api/card?username=ittzspsv&bg=transparent&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&hide=streak,grade,followers,stars,contributions"
+    srcset="https://ghstats.dev/api/card?username=ittzspsv&bg=transparent&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&hide=streak,grade,followers,stars,contributions"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://ghstats.dev/api/card?username=ittzspsv&bg=transparent&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&hide=streak,grade,followers,stars,contributions"
+    srcset="https://ghstats.dev/api/card?username=ittzspsv&bg=transparent&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&hide=streak,grade,followers,stars,contributions"
   />
   <img
     src="https://ghstats.dev/api/card?username=ittzspsv&bg=transparent&hide_border=true&hide=streak,grade,followers,stars,contributions"
