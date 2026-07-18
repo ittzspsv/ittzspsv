@@ -17,7 +17,11 @@
 
 </div>
 
-## About Me
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/fonts/AboutMeLight.png" width="35%">
+    <source media="(prefers-color-scheme: light)" srcset="images/fonts/AboutMeDark.png" width="35%">
+    <img alt="Banner" src="images/fonts/AboutMeLight.png" width="35%">
+</picture>
 
 <div>
 <img src="images/_Shiuchi_.png" width="300" align="left" />
