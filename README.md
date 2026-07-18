@@ -41,7 +41,20 @@
 </picture>
 <br><br>
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=ittzspsv&theme=light&hide_title=true&size=compact&order=grade%2Chours%2Ccommits%2Cactive_day%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cstars%2Ccontributions%2Cissues%2Crepos%2Cfollowers%2Cprs)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://ghstats.dev/api/card?username=ittzspsv&theme=dark&hide_title=true&size=compact&order=grade,hours,commits,active_day,streak,week,trend,avg,stars,contributions,issues,repos,followers,prs"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://ghstats.dev/api/card?username=ittzspsv&theme=light&hide_title=true&size=compact&order=grade,hours,commits,active_day,streak,week,trend,avg,stars,contributions,issues,repos,followers,prs"
+  />
+<img
+    src="https://ghstats.dev/api/card?username=ittzspsv&theme=light&hide_title=true&size=compact&order=grade,hours,commits,active_day,streak,week,trend,avg,stars,contributions,issues,repos,followers,prs"
+    alt="GitHub Stats Card"
+  />
+</picture>
 
 </div>
 
